@@ -7,7 +7,7 @@
 単一の音声ファイルの容量の増大を防ぐため、無音を感知したら自動でファイルを分けつつ、先に分けたものから自動で文字起こしを行う。
  
 # IMAGE
- 
+![Image](https://github.com/user-attachments/assets/80f41f5a-1ef7-4fcb-8922-a3f46976abc3)
  
 # Requirement
  
@@ -17,13 +17,7 @@
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+xcodeプロジェクト作成時に生成される一番上のファイルの中身をrokuon-testの中身で上書きして下さい。
  
 # Note
  
