@@ -47,3 +47,5 @@ Privacy - Microphone Usage Description: このアプリはマイクを使用し�
    
 # License
 GPL大好きなのでGPLにしてます。（ただの害悪）
+
+*このアプリで使用している画像にはライセンス・著作権は主張も適応もしない（し、したくない）です。
